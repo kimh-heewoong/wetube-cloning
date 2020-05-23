@@ -1,0 +1,19 @@
+{
+  "name": "wetube-cloning",
+  "version": "1.0.0",
+  "description": "Cloning Wetube with Vanilla and NodeJs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimh-heewoong/wetube-cloning.git"
+  },
+  "author": "Kim Hee Woong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimh-heewoong/wetube-cloning/issues"
+  },
+  "homepage": "https://github.com/kimh-heewoong/wetube-cloning#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
